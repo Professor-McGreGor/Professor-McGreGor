@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Professor-McGreGor
 - 👀 I’m interested in Full stack devlopment [Websites, Software, App]
 - 🌱 I’m currently learning [Tailwind CSS {just started my journey have some knowledge but still starting from begining}]
-- 💞️ I’m looking to collaborate on web, app, softwrae developemnt
+- 💞️ I’m looking to collaborate on web, app, softwrae development
 - 📫 How to reach me [my discord professor_mcgregor366]
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am alein & ghost
